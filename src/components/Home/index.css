@@ -1,0 +1,86 @@
+.home-cont-2 {
+  background-color: #434242;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+  padding-top: 40px;
+}
+.home-cont {
+  display: flex;
+}
+.home-search {
+  width: 705px;
+  background-color: #1c1c1c;
+  height: 51px;
+  border-radius: 30px;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  font-size: 20px;
+}
+.home-input-cont {
+  background-color: #1c1c1c;
+  width: 730px;
+  padding-right: 5px;
+  border-radius: 30px;
+}
+.search-cont {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.account-icon {
+  font-size: 50px;
+  color: white;
+}
+.home-cont-4 {
+  width: 913px;
+  border-radius: 20px;
+  background-color: #2b2a2a;
+  margin-top: 60px;
+  margin-left: 60px;
+  text-align: left;
+  padding: 40px;
+  max-height: 500px;
+  overflow-y: auto;
+}
+.home-cont-4::-webkit-scrollbar {
+  display: none; /* WebKit */
+}
+
+.greetings {
+  text-align: left;
+  color: white;
+  font-size: 20px;
+}
+.home-cont-4-1 {
+  width: 840px;
+  border-radius: 20px;
+  background-color: #1c1c1c;
+  margin-top: 20px;
+  padding: 20px;
+  font-size: 16px;
+  color: white;
+}
+.home-cont-4-1 h4 {
+  margin-bottom: 20px;
+}
+
+.home-cont-4 div img {
+  margin-right: 10px;
+}
+.home-cont-4-1-iamges {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.home-cont-4-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.flex-cont-1 {
+  display: flex;
+
+  align-items: center;
+}
